@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import Product from "./Product";
 import { motion } from "framer-motion";
-import video1 from "../assets/refokus.webm"
-import video2 from "../assets/refokus2.webm"
-import video3 from "../assets/refokus3.webm"
-import video4 from "../assets/refokus4.webm"
+import video1 from "../assets/Refokus.webm"
+import video2 from "../assets/Refokus2.webm"
+import video3 from "../assets/Refokus3.webm"
+import video4 from "../assets/Refokus4.webm"
 
 function Products() {
   var products = [
