@@ -6,6 +6,7 @@ import Products from "./components/Products";
 import Stripes from "./components/Stripes";
 import Work from "./components/Work";
 import LocomotiveScroll from "locomotive-scroll";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 function App() {
 
